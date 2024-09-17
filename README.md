@@ -1,5 +1,1 @@
-Flutter-based shop app: Indicates that the app is built using Flutter.
-Integrated with Firebase: Highlights the use of Firebase for backend services.
-Real-time chat support: Emphasizes the app's feature for live communication with support.
-Features product browsing, order management: Mentions key functionalities like viewing products and managing orders.
-Messaging system for direct communication: Specifies the real-time chat feature for support.
+A Flutter-based shopping app with Firebase integration, featuring real-time chat support for customers. The app allows users to browse products, view details, and engage directly with support. It utilizes Firebase for authentication, Firestore for real-time messaging, and follows modern design principles.
