@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518020695441",
+    "project_id": "cartelly-app",
+    "storage_bucket": "cartelly-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518020695441:android:d21f5a89d3d3856fbf0630",
+        "android_client_info": {
+          "package_name": "com.example.cartelly_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTmDC64y1UavkZuqr9wIxZ6ExRshj9TgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
