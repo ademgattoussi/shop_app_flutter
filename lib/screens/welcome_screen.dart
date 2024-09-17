@@ -28,7 +28,7 @@ class WelcomeScreen extends StatelessWidget {
                   child:  const Icon(Icons.support_agent, size: 150, color: kPrimaryColor,),
                 ),
                 const Text(
-                  'Messaging app',
+                  'Ask Support',
                   style: TextStyle(
                     fontSize: 40,
                     fontWeight: FontWeight.w900,
